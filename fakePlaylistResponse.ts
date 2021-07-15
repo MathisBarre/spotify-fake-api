@@ -19,7 +19,8 @@ export default [{
         ],
         "name": "Madeleine - Original Mix",
         "preview_url": "https://p.scdn.co/mp3-preview/13d86d05d190c1ef938c427a4be839bc24cef19b?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 541360
       }
     },
     {
@@ -39,7 +40,8 @@ export default [{
         ],
         "name": "Dancing People Are Never Wrong - Extended Mix",
         "preview_url": "https://p.scdn.co/mp3-preview/646a6df5515d016d6342e4698dd1805bd3bb3b85?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 440748
       }
     },
     {
@@ -56,7 +58,8 @@ export default [{
         ],
         "name": "Looped",
         "preview_url": "https://p.scdn.co/mp3-preview/418f2711470f2764df31e0c65ddb7c631186e515?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 360705
       }
     },
     {
@@ -73,7 +76,8 @@ export default [{
         ],
         "name": "Leafs",
         "preview_url": "https://p.scdn.co/mp3-preview/dfa83eec7bc8016e44fe5542fdc0a990741188be?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 312580
       }
     },
     {
@@ -93,7 +97,8 @@ export default [{
         ],
         "name": "Fading Nights",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 425000
       }
     },
     {
@@ -110,7 +115,8 @@ export default [{
         ],
         "name": "Sonne Park Und Sterni",
         "preview_url": "https://p.scdn.co/mp3-preview/72dfb8686c445c7ed40c59bb267fbddeb50fba00?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 326110
       }
     },
     {
@@ -127,7 +133,8 @@ export default [{
         ],
         "name": "Feel The Love",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 265192
       }
     },
     {
@@ -147,7 +154,8 @@ export default [{
         ],
         "name": "Sun My Sweet Sun - Konstantin Sibold Afro Tech Mix",
         "preview_url": "https://p.scdn.co/mp3-preview/51ee375c437f6d7a7e91eef40a7ff98924aaace6?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 421560
       }
     },
     {
@@ -167,7 +175,8 @@ export default [{
         ],
         "name": "Close These Curtains - Stimming Remix",
         "preview_url": "https://p.scdn.co/mp3-preview/0bceea9bccc6464ddfad9b80f91aabf10685f9db?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 416173
       }
     },
     {
@@ -187,7 +196,8 @@ export default [{
         ],
         "name": "Fear Less - Hraach Remix",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 436951
       }
     },
     {
@@ -207,7 +217,8 @@ export default [{
         ],
         "name": "Tarlabasi - Be Svendsen Remix",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 545813
       }
     },
     {
@@ -224,7 +235,8 @@ export default [{
         ],
         "name": "York - Original Mix",
         "preview_url": "https://p.scdn.co/mp3-preview/ae7bd4376e19073557cc4925b9793bdd26b467cd?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 476675
       }
     },
     {
@@ -241,7 +253,8 @@ export default [{
         ],
         "name": "Levo",
         "preview_url": "https://p.scdn.co/mp3-preview/e4ba3c2e965e935fd9ef4b5de7395eacfa076e83?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 282746
       }
     },
     {
@@ -261,7 +274,8 @@ export default [{
         ],
         "name": "Swept Away",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 346500
       }
     },
     {
@@ -278,7 +292,8 @@ export default [{
         ],
         "name": "Thrown",
         "preview_url": "https://p.scdn.co/mp3-preview/e9d45dddf7ad0442fc3cc79f364e95dd1a462c66?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 539229
       }
     },
     {
@@ -298,7 +313,8 @@ export default [{
         ],
         "name": "Big Jet Plane - Animal Trainer Remix",
         "preview_url": "https://p.scdn.co/mp3-preview/7423726f66157f4e20bcc2fe75a48a878204cdaf?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 400926
       }
     },
     {
@@ -318,7 +334,8 @@ export default [{
         ],
         "name": "Swift Code",
         "preview_url": "https://p.scdn.co/mp3-preview/f3a43133593d900b6989d1e8f14b36126d9b649a?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 264394
       }
     },
     {
@@ -335,7 +352,8 @@ export default [{
         ],
         "name": "Swept",
         "preview_url": "https://p.scdn.co/mp3-preview/1ee64779db4419ccbe19e3e0a281d210403bc5ec?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 332804
       }
     },
     {
@@ -352,7 +370,8 @@ export default [{
         ],
         "name": "Eternal Soul - Original Mix",
         "preview_url": "https://p.scdn.co/mp3-preview/7d518bbe26ad8a948fb3180d2db5fecab0d3b9b1?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 357947
       }
     },
     {
@@ -369,7 +388,8 @@ export default [{
         ],
         "name": "Washing Machine",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 441128
       }
     },
     {
@@ -386,7 +406,8 @@ export default [{
         ],
         "name": "Lithodora",
         "preview_url": "https://p.scdn.co/mp3-preview/00c267e0b44b969df12234f2bbbd14c600facfa1?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 333191
       }
     },
     {
@@ -403,7 +424,8 @@ export default [{
         ],
         "name": "Orgoned",
         "preview_url": "https://p.scdn.co/mp3-preview/99624748fcc25927ae9a92cde5fe40e3d19088f2?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 360320
       }
     },
     {
@@ -420,7 +442,8 @@ export default [{
         ],
         "name": "Neo",
         "preview_url": "https://p.scdn.co/mp3-preview/4a2750a07f0c6ea670dcc07fb50b512bb7a9575b?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 437548
       }
     },
     {
@@ -437,7 +460,8 @@ export default [{
         ],
         "name": "Undulate",
         "preview_url": "https://p.scdn.co/mp3-preview/d60029d6885028c2b3cbdc2c0640c0ca74e7b465?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 354146
       }
     },
     {
@@ -454,7 +478,8 @@ export default [{
         ],
         "name": "Dark Noise",
         "preview_url": "https://p.scdn.co/mp3-preview/097f515cc48c7f38927eea16c6bfe2c8d2cd2d5c?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 507261
       }
     },
     {
@@ -471,7 +496,8 @@ export default [{
         ],
         "name": "What Is In Your Head",
         "preview_url": "https://p.scdn.co/mp3-preview/33a886992ce0103ea642ec1a92951c7df3f4f83c?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 181092
       }
     },
     {
@@ -488,7 +514,8 @@ export default [{
         ],
         "name": "Atmosphere",
         "preview_url": "https://p.scdn.co/mp3-preview/be3c42bce7df80375b418e4b35ddcefc20a337cc?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 483840
       }
     },
     {
@@ -505,7 +532,8 @@ export default [{
         ],
         "name": "Mutter",
         "preview_url": "https://p.scdn.co/mp3-preview/aeb7d92fa8a12c5c9cbaf024a501175f38c9ae81?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 629092
       }
     },
     {
@@ -525,7 +553,8 @@ export default [{
         ],
         "name": "The Road - Parra For Cuva Remix",
         "preview_url": "https://p.scdn.co/mp3-preview/ad91ea45af043fbe009b0ef5b2ac08dc6f99c14c?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 403957
       }
     },
     {
@@ -542,7 +571,8 @@ export default [{
         ],
         "name": "Blurred",
         "preview_url": "https://p.scdn.co/mp3-preview/4c2a39e921b19a117665a3a95b878008e6906b43?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 305546
       }
     },
     {
@@ -562,7 +592,8 @@ export default [{
         ],
         "name": "Eleven",
         "preview_url": "https://p.scdn.co/mp3-preview/1c4049967e1b1d81f0cd066c1316b6954c781b15?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 395542
       }
     },
     {
@@ -579,7 +610,8 @@ export default [{
         ],
         "name": "Back In The Taxi",
         "preview_url": "https://p.scdn.co/mp3-preview/638521c88d5e93d3acda83a4a2b92709fbbe4adb?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 565779
       }
     },
     {
@@ -596,7 +628,8 @@ export default [{
         ],
         "name": "Tie In",
         "preview_url": "https://p.scdn.co/mp3-preview/6c58ee5253ab4e0002037546608f6e3a5a169b14?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 581547
       }
     },
     {
@@ -613,7 +646,8 @@ export default [{
         ],
         "name": "Swayed",
         "preview_url": "https://p.scdn.co/mp3-preview/67f976d3a8689010558e867051d6b9ea8fb014c1?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 263834
       }
     },
     {
@@ -633,7 +667,8 @@ export default [{
         ],
         "name": "BRANDENBURG - Stimming Remix",
         "preview_url": null,
-        "type": "track"
+        "type": "track",
+        "duration_ms": 486746
       }
     },
     {
@@ -650,7 +685,8 @@ export default [{
         ],
         "name": "Drawn",
         "preview_url": "https://p.scdn.co/mp3-preview/babee7ceb78c54ddf841463bec267d3c2bfc1aaa?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 260938
       }
     },
     {
@@ -667,7 +703,8 @@ export default [{
         ],
         "name": "Corvus",
         "preview_url": "https://p.scdn.co/mp3-preview/904a15fea8b7156e74aa36eb2def54eb52c90cac?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 431356
       }
     },
     {
@@ -684,7 +721,8 @@ export default [{
         ],
         "name": "Prepare",
         "preview_url": "https://p.scdn.co/mp3-preview/68fac4fdc10877a53030309312beed6281d032d7?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 376693
       }
     },
     {
@@ -701,7 +739,8 @@ export default [{
         ],
         "name": "Same Mistake",
         "preview_url": "https://p.scdn.co/mp3-preview/23459041db35f02f22aed20a1556d0d4f4a101e9?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 238120
       }
     },
     {
@@ -718,7 +757,8 @@ export default [{
         ],
         "name": "Warg",
         "preview_url": "https://p.scdn.co/mp3-preview/0b283c25df3a94d3d4ab34fb728d12a842d1a732?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 421680
       }
     },
     {
@@ -735,7 +775,8 @@ export default [{
         ],
         "name": "Rain - Mood EP Version",
         "preview_url": "https://p.scdn.co/mp3-preview/d8c246009e04c92e98882a0f77746651d33b2211?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 471946
       }
     },
     {
@@ -752,7 +793,8 @@ export default [{
         ],
         "name": "The Song",
         "preview_url": "https://p.scdn.co/mp3-preview/ff73e79ed177ca51a4bc53546e86a5470619c9ea?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 517758
       }
     },
     {
@@ -769,7 +811,8 @@ export default [{
         ],
         "name": "Dome",
         "preview_url": "https://p.scdn.co/mp3-preview/cc21768b02b452d9035a60f35ef07f410247f49a?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 475999
       }
     },
     {
@@ -789,7 +832,8 @@ export default [{
         ],
         "name": "Lullaby - Original",
         "preview_url": "https://p.scdn.co/mp3-preview/0a5030e32f445ba1f71a7234dfae2b9e06f6caec?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 373377
       }
     },
     {
@@ -806,7 +850,8 @@ export default [{
         ],
         "name": "Sun My Sweet Sun",
         "preview_url": "https://p.scdn.co/mp3-preview/8532161b002a72fe242f7b37eb33f50956bbe211?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 527566
       }
     },
     {
@@ -826,7 +871,8 @@ export default [{
         ],
         "name": "Like Water (feat. Mohna)",
         "preview_url": "https://p.scdn.co/mp3-preview/26e963f1fbb5926da9d8e8cf4a9529b81171b791?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 217581
       }
     },
     {
@@ -846,7 +892,8 @@ export default [{
         ],
         "name": "Mighty Girl",
         "preview_url": "https://p.scdn.co/mp3-preview/45ae4ad3157d4cc04c312c0a954b410196795396?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 442213
       }
     },
     {
@@ -863,7 +910,8 @@ export default [{
         ],
         "name": "Beirut",
         "preview_url": "https://p.scdn.co/mp3-preview/8479e37e6cf65bb86c8e89126fe19745e2a2a41e?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 460802
       }
     },
     {
@@ -880,7 +928,8 @@ export default [{
         ],
         "name": "Lit",
         "preview_url": "https://p.scdn.co/mp3-preview/37053ddbe14b46d32da8b491c79051d2563d18c1?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 384763
       }
     },
     {
@@ -900,7 +949,8 @@ export default [{
         ],
         "name": "Drift",
         "preview_url": "https://p.scdn.co/mp3-preview/e86fa4ae1d0cbc4799429ce0fbdb21fd3754085a?cid=b644138492164b009229f271bdc7b751",
-        "type": "track"
+        "type": "track",
+        "duration_ms": 508986
       }
     }
   ]

@@ -15,11 +15,13 @@ const typeDefs: DocumentNode = gql`
   }
 
   type TrackDetail {
-    album: Album
+    id: String!,
+    album: Album,
     artists: [Artist!]!,
     name: String!,
     preview_url: String,
-    type: TrackType
+    type: TrackType,
+    duration_ms: Int!
   }
 
   type Track {
