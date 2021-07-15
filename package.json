@@ -1,0 +1,16 @@
+{
+  "name": "spotify-fake-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mathis Barré",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^16.3.2",
+    "apollo-server-fastify": "^3.0.0",
+    "fastify": "^3.19.1",
+    "graphql": "^15.5.1"
+  }
+}
