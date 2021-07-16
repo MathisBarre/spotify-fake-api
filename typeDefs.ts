@@ -19,7 +19,7 @@ const typeDefs: DocumentNode = gql`
     album: Album,
     artists: [Artist!]!,
     name: String!,
-    preview_url: String,
+    preview_url: String | null,
     type: TrackType,
     duration_ms: Int!
   }
