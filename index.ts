@@ -10,6 +10,9 @@ async function startApolloServer(typeDefs: DocumentNode, resolvers: any) {
   const app = fastify();
   app.register(server.createHandler());
   const port = process.env.PORT || 4000
+  app.get("/", async () => {
+    return { message: `Application is running on port ${port}`}
+  })
   await app.listen(port);
   console.log(`🚀 Server ready at http://localhost:${port}${server.graphqlPath}`);
 }
