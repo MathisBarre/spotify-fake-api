@@ -13,7 +13,7 @@ async function startApolloServer(typeDefs: DocumentNode, resolvers: any) {
   app.get("/", async () => {
     return { message: `Application is running on port ${port}`}
   })
-  await app.listen(port);
+  await app.listen(port, '0.0.0.0')
   console.log(`🚀 Server ready at http://localhost:${port}${server.graphqlPath}`);
 }
 
