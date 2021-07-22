@@ -1,4 +1,4 @@
-import { ApolloServer, gql } from 'apollo-server-fastify';
+import { ApolloServer } from 'apollo-server-fastify';
 import fastify from 'fastify';
 import { DocumentNode } from 'graphql';
 import typeDefs from "./typeDefs"
@@ -9,8 +9,9 @@ async function startApolloServer(typeDefs: DocumentNode, resolvers: any) {
   await server.start();
   const app = fastify();
   app.register(server.createHandler());
-  await app.listen(4000);
-  console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`);
+  const port = process.env.PORT || 4000
+  await app.listen(port);
+  console.log(`🚀 Server ready at http://localhost:${port}${server.graphqlPath}`);
 }
 
 startApolloServer(typeDefs, resolvers)
