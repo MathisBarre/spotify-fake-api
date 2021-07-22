@@ -12,5 +12,8 @@
     "apollo-server-fastify": "^3.0.0",
     "fastify": "^3.19.1",
     "graphql": "^15.5.1"
+  },
+  "engines": {
+    "yarn": "1.22"
   }
 }
