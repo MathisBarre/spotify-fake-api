@@ -4,7 +4,7 @@ import { DocumentNode } from 'graphql';
 import typeDefs from "./typeDefs"
 import resolvers from "./resolvers"
 
-async function startApolloServer(typeDefs: DocumentNode, resolvers) {
+async function startApolloServer(typeDefs: DocumentNode, resolvers: any) {
   const server = new ApolloServer({ typeDefs, resolvers });
   await server.start();
   const app = fastify();
